@@ -1,5 +1,7 @@
 # DIKWP QigongTutor OS
 
+Created by Yucong Duan (段玉聪).
+
 DIKWP QigongTutor OS is a GitHub-ready learning and teaching system for qigong education under DIKWP-Mesh 4.0 SemanticClosure.
 
 It helps students, teachers and community instructors organize qigong learning as a safe, evidence-aware, non-medical wellness education workflow.
